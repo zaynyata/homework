@@ -1,0 +1,42 @@
+* {
+    font-family: Arial;
+}
+
+body {
+    margin: 0px;
+    background: lightgray;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.center-div {
+    margin: auto;
+}
+
+#container {
+    width: 502px;
+}
+
+.center-img {
+    text-align: center;
+}
+
+.center-img img {
+    border: 1px solid gray;
+}
+
+p {
+    border-bottom: gray 1px;
+}
+
+.line {
+    width: 502px;
+    border-bottom: 1px solid gray;
+}
+
+.bottom {
+    margin-bottom: 10px;
+    display: block;
+}
